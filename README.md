@@ -69,51 +69,55 @@ Website link >> https://www.fifecomptech.net/~s2265080/home.php
 ## Screenshots
 
 **Home page**
-![image](https://github.com/user-attachments/assets/5792a339-0fc2-4e15-b615-5ae8374f213a)
-![image](https://github.com/user-attachments/assets/1924feb8-7cac-4c75-abc7-359ce9975c80)
-![image](https://github.com/user-attachments/assets/909717fa-86a2-4c1d-b48f-f3acc14ebab5)
-![image](https://github.com/user-attachments/assets/a96cc40b-7cbe-438d-a804-7c96252da4c9)
-![image](https://github.com/user-attachments/assets/01aad418-2b58-4612-b408-93e432c64230)
+![www fifecomptech net_~s2265080_home php](https://github.com/user-attachments/assets/bf21e0f3-23c9-4114-8831-a771459441c9)
 
 ---
 
 **Shop**
-![image](https://github.com/user-attachments/assets/a65d7b97-7b52-4cda-8d76-b11389f43545)
+![www fifecomptech net_~s2265080_shop php (1)](https://github.com/user-attachments/assets/e9c84999-b18c-425b-a9c1-58ffc126f34e)
+
 
 **Product page - user not logged in**
-![image](https://github.com/user-attachments/assets/49ddfb96-ba9c-435b-9a44-77f7bc18e472)
+![www fifecomptech net_~s2265080_vinyl php_id=66 (1)](https://github.com/user-attachments/assets/59d0f6f1-371b-44cd-9736-e46ddcc3a00c)
+
 
 **Product page - user logged in**
-![image](https://github.com/user-attachments/assets/3b468aa0-aaea-4385-b4a1-712d22a41b4f)
+![www fifecomptech net_~s2265080_vinyl php_id=66](https://github.com/user-attachments/assets/74801d76-f3c1-4da5-b687-cf38301c2b50)
 
 ---
 
 **Sell - user not logged in**
-![image](https://github.com/user-attachments/assets/9be28503-2cf8-44d3-a254-a5ce830f3000)
+![www fifecomptech net_~s2265080_sell php](https://github.com/user-attachments/assets/9ead35df-4e13-4b90-bbd4-9fc0625b4374)
+
 
 **Seller dashboard**
-![image](https://github.com/user-attachments/assets/ca39b347-fa1c-4c1c-b15e-7116a48e3bf8)
+![www fifecomptech net_~s2265080_sell php (1)](https://github.com/user-attachments/assets/6a56fb9c-33e1-4e5a-bfe4-1c9faa238a13)
 
 **Seller - all vinyls added**
-![image](https://github.com/user-attachments/assets/f4b93258-adf2-40cb-b2df-cf865ac227a4)
+![www fifecomptech net_~s2265080_vinyls php](https://github.com/user-attachments/assets/d8431352-c50b-4ef9-991f-337c78915794)
+
 
 **Seller - add new vinyl**
-![image](https://github.com/user-attachments/assets/1e18730e-2e09-4bcd-a49a-bf48161ecb43)
+![www fifecomptech net_~s2265080_vinylAdd php](https://github.com/user-attachments/assets/b378ad0d-9d09-449e-a356-39bd581253f7)
+
 
 ---
 **Buyer - dashboard**
-![image](https://github.com/user-attachments/assets/4b1f6607-d683-40ae-bc84-5c20f5fca57f)
+![www fifecomptech net_~s2265080_myOrders php](https://github.com/user-attachments/assets/5e43734f-cbad-4806-a0b0-002351d810f1)
+
 
 ---
 
 **Administrator dashboard**
-![image](https://github.com/user-attachments/assets/06d91df0-1189-45d7-8f5a-95a2aeed1c9d)
+![image](https://github.com/user-attachments/assets/750965bd-b85b-4f65-ba17-173f7ad26999)
 
 **Administrator - all vinyls**
-![image](https://github.com/user-attachments/assets/763ebac0-6d4e-4e50-a6ae-2432259f9679)
+![www fifecomptech net_~s2265080_allVinyls php](https://github.com/user-attachments/assets/2851596d-a33f-4eb9-8674-bdb013612cc7)
+
 
 **Administrator - all orders**
-![image](https://github.com/user-attachments/assets/faf2b24b-a6c8-4136-8095-d5cf03d62c3a)
+![www fifecomptech net_~s2265080_allOrders php](https://github.com/user-attachments/assets/4294c883-5f6c-492c-b41a-15c26eae7f2b)
+
 
 
 
